@@ -20,6 +20,11 @@ body {
   perspective: 1000px;
 }
 
+.text {
+  background: #fff;
+  position: absolute;
+}
+
 .night {
   position: fixed;
   left: 50%;
